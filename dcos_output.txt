@@ -1,0 +1,21 @@
+â dcos-adminrouter-reload.service                 not-found inactive dead      dcos-adminrouter-reload.service
+â dcos-adminrouter.service                        not-found inactive dead      dcos-adminrouter.service
+â dcos-cluster-id.service                         not-found inactive dead      dcos-cluster-id.service
+â dcos-cosmos.service                            not-found inactive dead      dcos-cosmos.service
+â dcos-ddt.service                               not-found inactive dead      dcos-ddt.service
+  dcos-download.service                          loaded    inactive dead      Pkgpanda: Download DC/OS to this host.
+â dcos-epmd.service                               not-found inactive dead      dcos-epmd.service
+â dcos-exhibitor.service                         not-found inactive dead      dcos-exhibitor.service
+â dcos-gen-resolvconf.service                   not-found inactive dead      dcos-gen-resolvconf.service
+â dcos-history-service.service                not-found inactive dead      dcos-history-service.service
+â dcos-keepalived.service                     not-found inactive dead      dcos-keepalived.service
+â dcos-logrotate.service                         not-found inactive dead      dcos-logrotate.service
+â dcos-marathon.service                          not-found inactive dead      dcos-marathon.service
+â dcos-mesos-dns.service                       not-found inactive dead      dcos-mesos-dns.service
+â dcos-mesos-master.service                    not-found inactive dead      dcos-mesos-master.service
+â dcos-minuteman.service                       not-found inactive dead      dcos-minuteman.service
+â dcos-oauth.service                          not-found inactive dead      dcos-oauth.service
+  dcos-setup.service                            loaded    inactive dead      Pkgpanda: Specialize DC/OS for this host.
+â dcos-signal.service                           not-found inactive dead      dcos-signal.service
+â dcos-spartan-watchdog.service              not-found inactive dead      dcos-spartan-watchdog.service
+â dcos-spartan.service                           not-found inactive dead      dcos-spartan.service
